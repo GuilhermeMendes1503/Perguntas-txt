@@ -1,0 +1,9 @@
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\bin\Debug\perguntas com txt.exe.config
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\bin\Debug\perguntas com txt.exe
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\bin\Debug\perguntas com txt.pdb
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\obj\Debug\perguntas com txt.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\obj\Debug\perguntas_com_txt.Form1.resources
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\obj\Debug\perguntas_com_txt.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\obj\Debug\perguntas com txt.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\obj\Debug\perguntas com txt.exe
+c:\users\aluno\documents\visual studio 2015\Projects\perguntas com txt\perguntas com txt\obj\Debug\perguntas com txt.pdb
